@@ -1,0 +1,23 @@
+body {
+  background: #f0f0f0;
+}
+
+.outlet {
+  margin-top: 62px;
+}
+
+.card-text {
+  height: 3rem;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.flexo {
+}
+
+.card {
+  background: linear-gradient(to top, #9a9a9a 0, #ffffff 47%);
+  box-shadow: 0 0 16px 0px #b9b8b8;
+  border: 1px solid #f0f0f0;
+  min-width: 260px;
+}
